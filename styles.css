@@ -1,0 +1,87 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightgray;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.readme-wrapper {
+    text-align: center;
+    text-decoration: none;
+    color: lightsalmon;
+}
+a:hover {
+    color: lightseagreen;
+    font-weight: bold;
+}
+span {
+    font-weight: bolder;
+    font-size: large;
+}
+.boxes {
+    display: block;
+    margin: 10px 25px;
+    padding: 10px 50px 25px;
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 30em;
+}
+#box1 {
+    background-color: mintcream;
+}
+#box2 {
+    background-color: pink;
+}
+#boxL {
+    background-color: antiquewhite;
+}
+#boxM {
+    background-color: lavenderblush;
+}
+.image {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: lightcoral;
+    position: relative;
+    top: 50px;
+}
+h1 {
+    color: orange;
+}
+.original {
+    color: royalblue;
+}
+.additional {
+    color: slateblue;
+}
+#show1 {
+    color: teal;
+}
+#show2 {
+    color: tomato;
+}
+#show3 {
+    color: blueviolet;
+}
+#show4 {
+    color: crimson;
+}
+#show5 {
+    color: darkcyan;
+}
+ul {
+    color: darkgoldenrod;
+}
+.star {
+    color: darksalmon;
+}
+#wars {
+    color: deepskyblue;
+}
+.list {
+    border: 2px solid black;
+}
